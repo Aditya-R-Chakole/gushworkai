@@ -5,5 +5,5 @@
 - Start frontend app (on 3000 port) - "npm start"
 ## BackEnd - RubyOnRails
 - Install Ruby 3.2.1, Rails 7.1.2 - [Install Ruby On Rails on macOS 13 Ventura (Apple Silicon, M1, M2) | GoRails](https://gorails.com/setup/macos/13-ventura)
-- Install all required gems = "bundle install"
+- Install all required gems - "bundle install"
 - Start backend app (on 3001 port) - "rails s -p 3001"
